@@ -39,7 +39,7 @@ const Banner = (props) => {
     <animated.div style={spring} className="banner">
       <p>Great choices! You have nominated 5 movies.</p>
       <FacebookShareButton
-        url="http://www.camperstribe.com"
+        url="https://dazhuanger.github.io/shoppies/"
         // quote="Checkout my shoppies nominations!"
         quote={`Check out my Shoppies nominations! ${nominationsQuote}`}
         hashtag="#theshoppies"
@@ -50,13 +50,13 @@ const Banner = (props) => {
       <TwitterShareButton
         title={`Check out my Shoppies nominations! ${nominationsQuote}`}
         hashtags={["theshoppies"]}
-        url="http://www.camperstribe.com"
+        url="https://dazhuanger.github.io/shoppies/"
         className={btnClasses.root}
       >
         <TwitterIcon className={iconClasses.root} />
       </TwitterShareButton>
       <RedditShareButton
-        url="http://www.camperstribe.com"
+        url="https://dazhuanger.github.io/shoppies/"
         title={`Check out my Shoppies nominations! ${nominationsQuote}`}
         className={btnClasses.root}
       >

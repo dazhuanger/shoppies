@@ -1,1 +1,1 @@
-# Shopify UX/Web developer challenge
+# Shopify UX / Web developer challenge

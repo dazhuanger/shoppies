@@ -5,7 +5,7 @@
 <ul>
 <li>Search results should come from OMDB's API.</li>
 <li>Each search result should list at least its title, year of release and a button to nominate that film.</li>
-<li>Updates to the search terms should update the result list</li>
+<li>Updates to the search terms should update the result list.</li>
 <li>Movies in search results can be added and removed from the nomination list.</li>
 <li>If a search result has already been nominated, disable its nominate button.</li>
 <li>Display a banner when the user has 5 nominations.</li>
@@ -30,6 +30,6 @@
 <h2>Technologies used</h2>
 <ul>
 <li>HTML, CSS, JavaScript</li>
-<li>React.js, React Hooks, React Transition Goup</li>
+<li>React.js, React Hooks, React Transition Group</li>
 <li>API, AJAX</li>
 </ul>

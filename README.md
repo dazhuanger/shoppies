@@ -1,4 +1,4 @@
-<h1>Shopify UX / Web developer challenge (summer 2021)</h1>\
+<h1>Shopify UX / Web developer challenge (summer 2021)</h1>
 <p>The Shoppies is a React app that allows users to search OMDB for movies using API and nominate their favourite ones.</p>
 
 <h2>Technical requirements</h2>
@@ -19,11 +19,11 @@
 <li>Remove a nominee from the nomination list.</li>
 </ul>
 
-<h2>Addes features</h2>
+<h2>Added features</h2>
 <ul>
-<li>Error prevention alert when searched movie doesn't exist in the database.</li> 
-<li>A banner with social media share buttons that displays when user nominated 5 movies.</li>
-<li>A popup menu when user tries to nominate more than 5 movies.</li>
+<li>Error prevention alert when the searched movie doesn't exist in the database.</li> 
+<li>A banner with social media share buttons that displays when the user nominated 5 movies.</li>
+<li>A popup menu when the user tries to nominate more than 5 movies.</li>
 <li>Animations for loading and displaying search results and nominations.</li>
 </ul>
 
